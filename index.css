@@ -1,0 +1,33 @@
+body{
+    background-image: url(./Img2.jpeg);
+    height: 150vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-radius: 5vh;
+    
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2rem;
+
+}
+
+nav{
+    width: 60%;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    font-size: xx-large;
+    color: brown;
+}
+li{
+    color: black;
+    font-size: large;
+}
